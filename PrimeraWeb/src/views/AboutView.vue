@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>Prueba de git flow feature start y finish</h1>
   </div>
 </template>
 
@@ -13,3 +13,4 @@
   }
 }
 </style>
+<!-- HOLAMUNDO ESTE ES MI FATURE -->
